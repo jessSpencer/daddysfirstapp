@@ -1,0 +1,13 @@
+﻿body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.fancy {
+    font-size:10px;
+    color: darkgoldenrod;
+    width: 150px;
+}
+
+textarea{
+    font-size: 20px;
+}
